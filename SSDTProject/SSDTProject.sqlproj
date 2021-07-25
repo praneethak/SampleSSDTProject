@@ -68,5 +68,6 @@
     <Build Include="dbo\Tables\staffs.sql" />
     <Build Include="dbo\Stored Procedures\SelectAllCustomers.sql" />
     <Build Include="dbo\Stored Procedures\SelectAllProducts.sql" />
+    <Build Include="dbo\Tables\categories.sql" />
   </ItemGroup>
 </Project>
