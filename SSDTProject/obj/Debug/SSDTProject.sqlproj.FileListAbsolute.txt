@@ -1,0 +1,10 @@
+C:\Users\H!\source\repos\SSDTProject\SSDTProject\bin\Debug\SSDTProject.dacpac
+C:\Users\H!\source\repos\SSDTProject\SSDTProject\bin\Debug\SSDTProject.dll
+C:\Users\H!\source\repos\SSDTProject\SSDTProject\bin\Debug\SSDTProject.pdb
+C:\Users\H!\source\repos\SSDTProject\SSDTProject\obj\Debug\SSDTProject.sqlproj.AssemblyReference.cache
+C:\Users\H!\source\repos\SSDTProject\SSDTProject\obj\Debug\Model.xml
+C:\Users\H!\source\repos\SSDTProject\SSDTProject\obj\Debug\refactor.xml
+C:\Users\H!\source\repos\SSDTProject\SSDTProject\obj\Debug\postdeploy.sql
+C:\Users\H!\source\repos\SSDTProject\SSDTProject\obj\Debug\predeploy.sql
+C:\Users\H!\source\repos\SSDTProject\SSDTProject\obj\Debug\SSDTProject.dll
+C:\Users\H!\source\repos\SSDTProject\SSDTProject\obj\Debug\SSDTProject.pdb
