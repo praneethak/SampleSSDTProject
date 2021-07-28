@@ -1,4 +1,4 @@
 ﻿CREATE PROCEDURE SelectAllProducts
 AS
-SELECT * FROM [dbo].[Products]
+SELECT * FROM categories
 GO;
