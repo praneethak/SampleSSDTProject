@@ -1,4 +1,6 @@
-﻿CREATE PROCEDURE SelectAllCustomers
+﻿
+
+CREATE PROCEDURE SelectAllCustomers
 AS
-SELECT * FROM Products
+SELECT * FROM categories
 GO;
