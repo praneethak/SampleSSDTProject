@@ -2,7 +2,7 @@
     [ProductID]          INT           NOT NULL,
     [ProductName]        VARCHAR (25)  NOT NULL,
     [Price]              MONEY         NULL,
-    [ProductDescription] VARCHAR (MAX) NULL,
+    [ProductDescription] VARCHAR (255) NULL,
     PRIMARY KEY CLUSTERED ([ProductID] ASC)
 );
 
