@@ -1,19 +1,3 @@
-
-MONDAY, 21 OCTOBER 2019
-Create a .gitignore using git bash
-Create a .gitignore
-A .gitignore file is a list of files to ignore when pushing files to Github.com. It tells git which files should be ignored when changes are staged (added) and committed. Some files are commonly not tracked by git so they are not committed nor sent up to repositories. Sending and receiving too many files can slow down development and takes up unnecessary space.
-From the Github specs...
-The purpose of gitignore files is to ensure that certain files not tracked by git remain untracked.
-Create a .gitignore file all your own:
-These steps use vim to update the .gitignore file
-Navigate to the folder that contains the files for your project.
-If you have not yet created a .git file, run the git commit command.
-Create a .gitignore file by running touch .gitignore. The file name ".gitignore" is case sensitive and the name of the file matters. Git will look for a file with that name and will not stage (add) or commit files that is is told to ignore.
-Use vim to open the file by running vim .gitignore. This will open a text editor called "Vim" inside your console.
-Press the escape key to enter and exit text-entry mode.
-Once you have updated your .gitignore files you can save and exit vim by pressing escape, entering :wq, and pressing return/enter
-Example:
 # Don't track content of these folders
 node_modules/
 someOtherfoler/
